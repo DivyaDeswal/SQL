@@ -36,7 +36,9 @@ Useful for beginners and advanced users to strengthen SQL skills.
 
 #### 🛠️ Tools & Technologies Used
 SQL 🗃️
+
 Jupyter Notebook
+
 SQLite / MySQL / PostgreSQL (as needed)
 
 #### 📌 How to Use
